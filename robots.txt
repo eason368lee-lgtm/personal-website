@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eason368lee-lgtm.github.io/personal-website/sitemap.xml
